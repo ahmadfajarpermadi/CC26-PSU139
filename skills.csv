@@ -1,0 +1,36 @@
+skill_abr,skill_name
+DIST,Distribution
+HCPR,Health Care Provider
+GENB,General Business
+PRCH,Purchasing
+LGL,Legal
+CUST,Customer Service
+ADVR,Advertising
+PROD,Production
+SUPL,Supply Chain
+PR,Public Relations
+WRT,Writing/Editing
+STRA,Strategy/Planning
+ANLS,Analyst
+RSCH,Research
+DSGN,Design
+ART,Art/Creative
+ACCT,Accounting/Auditing
+EDU,Education
+TRNG,Training
+PRDM,Product Management
+SCI,Science
+ADM,Administrative
+MRKT,Marketing
+MGMT,Management
+MNFC,Manufacturing
+QA,Quality Assurance
+HR,Human Resources
+ENG,Engineering
+CNSL,Consulting
+PRJM,Project Management
+BD,Business Development
+OTHR,Other
+FIN,Finance
+SALE,Sales
+IT,Information Technology

@@ -1,0 +1,31 @@
+nama_kolom,tipe_data,deskripsi
+job_id,int64,ID unik untuk setiap lowongan pekerjaan
+company_id,float64,ID perusahaan yang memasang lowongan
+title,string,Judul posisi pekerjaan
+description,object,Deskripsi pekerjaan yang sudah dibersihkan
+max_salary,float64,Gaji maksimum bila tersedia
+med_salary,float64,Gaji median bila tersedia
+min_salary,float64,Gaji minimum bila tersedia
+pay_period,string,"Periode pembayaran gaji, misalnya bulanan atau tahunan"
+formatted_work_type,string,Bentuk kerja hasil formatting dari sumber data
+location,string,Lokasi pekerjaan
+applies,float64,Jumlah pelamar bila tersedia
+original_listed_time,float64,Waktu publikasi asli dari sumber data
+remote_allowed,bool,Penanda apakah lowongan mendukung kerja remote
+views,float64,Jumlah view lowongan bila tersedia
+job_posting_url,string,URL lowongan pekerjaan
+application_url,string,URL aplikasi atau pendaftaran
+application_type,string,Tipe proses aplikasi
+expiry,float64,Waktu kedaluwarsa lowongan
+closed_time,float64,Waktu penutupan lowongan bila tersedia
+formatted_experience_level,string,Level pengalaman dari sumber data
+skills_desc,string,Deskripsi skill dari sumber data bila tersedia
+listed_time,float64,Timestamp waktu listing
+posting_domain,string,Domain sumber lowongan
+sponsored,int64,Penanda apakah lowongan bersponsor
+work_type,string,Tipe kerja dalam format mentah
+currency,string,Mata uang gaji
+compensation_type,string,Jenis kompensasi
+scraped,int64,Timestamp saat data discrape
+description_before_clean,object,Deskripsi pekerjaan sebelum pembersihan teks
+salary_estimate,float64,Estimasi gaji dari median atau rata-rata min dan max salary
